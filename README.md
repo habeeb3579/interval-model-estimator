@@ -25,7 +25,7 @@ It also includes plot that allow users to visualize the performance of each inte
 
 ------------------------------------------------------------------------
 
-### Reference
+### References
 
 ------------------------------------------------------------------------
 
